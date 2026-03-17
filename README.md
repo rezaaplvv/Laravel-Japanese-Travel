@@ -10,10 +10,10 @@
 </p>
 </div>
 
-📝 Deskripsi Proyek
+📝 Deskripsi Proyek <br>
 HelmiTour adalah platform agen perjalanan eksklusif yang berfokus pada paket wisata ke Jepang. Website ini dirancang untuk memberikan pengalaman visual yang memikat bagi calon wisatawan, sekaligus memberikan kemudahan bagi admin untuk mengelola paket tour, galeri destinasi, hingga update kurs mata uang secara real-time.
 
-🚀 Fitur Unggulan
+🚀 Fitur Unggulan <br>
 Dynamic Tour Packages: Pengelolaan paket wisata lengkap dengan itinerary dan harga.
 
 Live Currency Converter: Kalkulator kurs IDR ke JPY (Yen) untuk estimasi biaya perjalanan.
@@ -24,7 +24,7 @@ One-Click Booking: Integrasi langsung ke WhatsApp untuk konsultasi dan pemesanan
 
 SEO Optimized: Struktur kode yang ramah mesin pencari untuk menjangkau lebih banyak audiens.
 
-📸 Tampilan Website (Halaman Pengguna)
+📸 Tampilan Website (Halaman Pengguna) <br>
 Dokumentasi antarmuka untuk pengunjung:
 
 <div align="center">
