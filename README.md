@@ -9,14 +9,14 @@
 </p>
 </div>
 
-📝 Deskripsi Proyek
+Deskripsi Proyek
 Platform: Agen Perjalanan Eksklusif (Spesialis Jepang).
 
 Fungsi: Landing Page Pemasaran & System Management Content (CMS).
 
 Tujuan: Digitalisasi pemesanan paket tour dan informasi destinasi.
 
-🚀 Fitur Unggulan
+Fitur Unggulan
 Dynamic Tour Packages
 
 Live Currency Converter (IDR to JPY)
@@ -31,102 +31,48 @@ Tampilan Website (User Interface)
 <div align="center">
 <table style="width: 100%;">
 <tr>
-<td align="center" width="50%"><img src="Screenshot (2634).png" width="100%"/>
-
-
-<b>Hero Section</b></td>
-<td align="center" width="50%"><img src="Screenshot (2635).png" width="100%"/>
-
-
-<b>Keunggulan</b></td>
+<td align="center" width="50%"><img src="Screenshot (2634).png" width="100%"/></td>
+<td align="center" width="50%"><img src="Screenshot (2635).png" width="100%"/></td>
 </tr>
 <tr>
-<td align="center"><img src="Screenshot (2636).png" width="100%"/>
-
-
-<b>Daftar Paket</b></td>
-<td align="center"><img src="Screenshot (2637).png" width="100%"/>
-
-
-<b>Detail Itinerary</b></td>
+<td align="center"><img src="Screenshot (2636).png" width="100%"/></td>
+<td align="center"><img src="Screenshot (2637).png" width="100%"/></td>
 </tr>
 <tr>
-<td align="center"><img src="Screenshot (2638).png" width="100%"/>
-
-
-<b>Kalkulator Kurs</b></td>
-<td align="center"><img src="Screenshot (2639).png" width="100%"/>
-
-
-<b>Galeri</b></td>
+<td align="center"><img src="Screenshot (2638).png" width="100%"/></td>
+<td align="center"><img src="Screenshot (2639).png" width="100%"/></td>
 </tr>
 <tr>
-<td align="center"><img src="Screenshot (2640).png" width="100%"/>
-
-
-<b>Testimoni</b></td>
-<td align="center"><img src="Screenshot (2641).png" width="100%"/>
-
-
-<b>FAQ & Footer</b></td>
+<td align="center"><img src="Screenshot (2640).png" width="100%"/></td>
+<td align="center"><img src="Screenshot (2641).png" width="100%"/></td>
 </tr>
 <tr>
-<td align="center" colspan="2"><img src="Screenshot (2642).png" width="50%"/>
-
-
-<b>Mobile Version</b></td>
+<td align="center" colspan="2"><img src="Screenshot (2642).png" width="50%"/></td>
 </tr>
 </table>
 </div>
 
-⚙️ Dashboard Admin (CMS)
+Dashboard Admin (CMS)
 <div align="center">
 <table style="width: 100%;">
 <tr>
-<td align="center" width="50%"><img src="Screenshot (2643).png" width="100%"/>
-
-
-<b>Login Admin</b></td>
-<td align="center" width="50%"><img src="Screenshot (2644).png" width="100%"/>
-
-
-<b>Dashboard</b></td>
+<td align="center" width="50%"><img src="Screenshot (2643).png" width="100%"/></td>
+<td align="center" width="50%"><img src="Screenshot (2644).png" width="100%"/></td>
 </tr>
 <tr>
-<td align="center"><img src="Screenshot (2645).png" width="100%"/>
-
-
-<b>Manajemen Paket</b></td>
-<td align="center"><img src="Screenshot (2646).png" width="100%"/>
-
-
-<b>Input Destinasi</b></td>
+<td align="center"><img src="Screenshot (2645).png" width="100%"/></td>
+<td align="center"><img src="Screenshot (2646).png" width="100%"/></td>
 </tr>
 <tr>
-<td align="center"><img src="Screenshot (2647).png" width="100%"/>
-
-
-<b>Manajemen Galeri</b></td>
-<td align="center"><img src="Screenshot (2648).png" width="100%"/>
-
-
-<b>Manajemen Testimoni</b></td>
+<td align="center"><img src="Screenshot (2647).png" width="100%"/></td>
+<td align="center"><img src="Screenshot (2648).png" width="100%"/></td>
 </tr>
 <tr>
-<td align="center"><img src="Screenshot (2649).png" width="100%"/>
-
-
-<b>Edit FAQ</b></td>
-<td align="center"><img src="Screenshot (2650).png" width="100%"/>
-
-
-<b>Kontak & Kurs</b></td>
+<td align="center"><img src="Screenshot (2649).png" width="100%"/></td>
+<td align="center"><img src="Screenshot (2650).png" width="100%"/></td>
 </tr>
 <tr>
-<td align="center" colspan="2"><img src="Screenshot (2651).png" width="50%"/>
-
-
-<b>Admin Settings</b></td>
+<td align="center" colspan="2"><img src="Screenshot (2651).png" width="50%"/></td>
 </tr>
 </table>
 </div>
